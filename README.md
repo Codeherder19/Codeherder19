@@ -5,8 +5,8 @@ My name is Brian Forbes, and I am a soon to be graduate from the Turing school o
 - 🌱 I’m currently learning Redux and Jest.
 - 🤔 I’m looking for help with getting my first job as a junior software developer.
 - 💬 Ask me about music, horror movies, and Dungeons and Dragons which are some of my top interests!
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: 
 1. Email: brianandrewf81@gmail.com
 2. Slack handle: Brian Forbes
 3. [LinkedIn](https://www.linkedin.com/in/brian-forbes-833887130/)
-- 😄 Pronouns: He/Him
