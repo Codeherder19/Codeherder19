@@ -8,5 +8,5 @@ My name is Brian Forbes, and I am a soon to be graduate from the Turing school o
 - 📫 How to reach me: 
 1. Email: brianandrewf81@gmail.com
 2. Slack handle: Brian Forbes
-3. LinkedIn: [LinkedIn](https://www.linkedin.com/in/brian-forbes-833887130/)
+3. [LinkedIn](https://www.linkedin.com/in/brian-forbes-833887130/)
 - 😄 Pronouns: He/Him
